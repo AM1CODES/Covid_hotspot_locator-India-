@@ -2,6 +2,8 @@ import pandas as pd #to form the dataframe
 import folium #for rendering the map
 import tkinter as tk #for GUI
 
+[check out the other file to actually see how the graph will look like after rendering]
+
 win = tk.Tk()
 win.title("Covid Hotspot Detector")
 win.geometry("512x550")
